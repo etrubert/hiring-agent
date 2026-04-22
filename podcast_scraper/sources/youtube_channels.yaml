@@ -1,0 +1,47 @@
+# YouTube channels (handle or channel ID).
+# Format: list of entries with `name` and `handle` (preferred) or `channel_id`.
+channels:
+  - name: Latent Space
+    handle: "@LatentSpacePod"
+  - name: No Priors Podcast
+    handle: "@NoPriorsPodcast"
+  - name: Cognitive Revolution
+    handle: "@CognitiveRevolutionPodcast"
+  - name: MLOps Community
+    handle: "@MLOps"
+  - name: Practical AI
+    handle: "@PracticalAIFM"
+  - name: Gradient Dissent
+    handle: "@WeightsBiases"
+  - name: TWIML AI Podcast
+    handle: "@twimlai"
+  - name: The AI Engineer
+    handle: "@aiDotEngineer"
+  - name: Dwarkesh Patel
+    handle: "@DwarkeshPatel"
+  - name: Lenny's Podcast
+    handle: "@LennysPodcast"
+  - name: Software Engineering Daily
+    handle: "@SoftwareEngineeringDaily"
+  - name: How I AI
+    handle: "@HowIAI"
+  - name: a16z Podcast
+    handle: "@a16z"
+  - name: Sequoia Training Data
+    handle: "@SequoiaCapitalPublishing"
+  - name: AI Daily Brief
+    handle: "@AIDailyBrief"
+  - name: Underscore_
+    handle: "@Underscore_"
+  - name: Génération IA
+    handle: "@GenerationIA"
+
+search_queries:
+  - "AI engineer interview 2025"
+  - "LLM engineer podcast"
+  - "ML engineer interview"
+  - "founding engineer AI startup"
+  - "interview AI researcher"
+  - "agent builder interview"
+  - "ingénieur IA interview"
+  - "ingénieur machine learning podcast"

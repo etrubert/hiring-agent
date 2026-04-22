@@ -1,0 +1,61 @@
+# Specific tools / frameworks / SDKs whose mention alone is enough to keep a hackathon.
+# Match is case-insensitive, whole-word where possible.
+tools:
+  - name: LangChain
+    aliases: [langchain, "lang-chain"]
+  - name: LangGraph
+    aliases: [langgraph, "lang-graph"]
+  - name: LlamaIndex
+    aliases: [llamaindex, "llama-index", "llama_index"]
+  - name: Haystack
+    aliases: [haystack]
+  - name: CrewAI
+    aliases: [crewai, "crew-ai", "crew ai"]
+  - name: AutoGen
+    aliases: [autogen, "auto-gen"]
+  - name: Semantic Kernel
+    aliases: ["semantic kernel", "semantic-kernel", semantickernel]
+  - name: MCP
+    aliases: ["model context protocol", mcp]
+  - name: OpenAI Agents SDK
+    aliases: ["openai agents sdk", "agents sdk"]
+  - name: Claude
+    aliases: [claude, "anthropic claude"]
+  - name: Anthropic
+    aliases: [anthropic]
+  - name: OpenAI
+    aliases: [openai, "open-ai"]
+  - name: GPT-4
+    aliases: ["gpt-4", "gpt 4", "gpt4"]
+  - name: GPT-5
+    aliases: ["gpt-5", "gpt 5", "gpt5"]
+  - name: Gemini
+    aliases: [gemini, "google gemini"]
+  - name: Mistral
+    aliases: [mistral, "mistral ai"]
+  - name: Ollama
+    aliases: [ollama]
+  - name: vLLM
+    aliases: [vllm, "v-llm"]
+  - name: Hugging Face
+    aliases: ["hugging face", "huggingface", "hugging-face"]
+  - name: Transformers
+    aliases: [transformers]
+  - name: PyTorch
+    aliases: [pytorch, "py-torch"]
+  - name: TensorFlow
+    aliases: [tensorflow, "tensor-flow"]
+  - name: JAX
+    aliases: [jax]
+  - name: RAG
+    aliases: [rag, "retrieval-augmented generation", "retrieval augmented generation"]
+  - name: Vector DB
+    aliases: [pinecone, weaviate, qdrant, chroma, chromadb, milvus, "vector database", "vector db"]
+  - name: Fine-tuning
+    aliases: ["fine-tuning", "fine tuning", finetune, finetuning, lora, qlora]
+  - name: Agents
+    aliases: [agent, agents, "agentic", "autonomous agent"]
+  - name: Multi-agent
+    aliases: ["multi-agent", "multi agent", multiagent]
+  - name: Tool Use
+    aliases: ["tool use", "tool-use", "function calling", "function-calling"]

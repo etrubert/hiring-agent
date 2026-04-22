@@ -1,0 +1,51 @@
+# Roles we want to see among judges / mentors / sponsors / organisers.
+# Each role has a list of title patterns (case-insensitive substring match).
+roles:
+  - name: Agent Builder
+    patterns:
+      - "agent builder"
+      - "agent engineer"
+      - "agents engineer"
+      - "agentic engineer"
+      - "ai agent"
+      - "autonomous agent"
+      - "multi-agent"
+      - "langgraph"
+      - "crewai"
+      - "autogen"
+
+  - name: AI Engineering Manager
+    patterns:
+      - "ai engineering manager"
+      - "ml engineering manager"
+      - "head of ai engineering"
+      - "head of ml engineering"
+      - "director of ai"
+      - "director of ml"
+      - "vp of ai"
+      - "vp ai"
+      - "engineering manager, ai"
+      - "engineering manager, ml"
+
+  - name: Senior AI Engineer
+    patterns:
+      - "senior ai engineer"
+      - "senior ml engineer"
+      - "staff ai engineer"
+      - "staff ml engineer"
+      - "principal ai engineer"
+      - "principal ml engineer"
+      - "lead ai engineer"
+      - "lead ml engineer"
+      - "senior llm engineer"
+      - "staff llm engineer"
+      - "senior machine learning engineer"
+
+  - name: Senior Data Scientist
+    patterns:
+      - "senior data scientist"
+      - "staff data scientist"
+      - "principal data scientist"
+      - "lead data scientist"
+      - "senior applied scientist"
+      - "staff applied scientist"

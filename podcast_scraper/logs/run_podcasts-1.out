@@ -1,0 +1,818 @@
+YouTube channels:   0%|          | 0/17 [00:00<?, ?it/s]2026-04-22 12:08:30,710 INFO root: channel Latent Space -> 5 videos
+YouTube channels:   6%|▌         | 1/17 [00:02<00:32,  2.06s/it]2026-04-22 12:08:32,298 INFO root: channel No Priors Podcast -> 5 videos
+YouTube channels:  12%|█▏        | 2/17 [00:03<00:26,  1.78s/it]2026-04-22 12:08:34,055 INFO root: channel Cognitive Revolution -> 5 videos
+YouTube channels:  18%|█▊        | 3/17 [00:05<00:24,  1.77s/it]ERROR: [youtube] uT-jEi9Ledw: Premieres in 5 days
+ERROR: [youtube] 9EjWR3QpJYk: Premieres in 5 days
+2026-04-22 12:08:35,836 INFO root: channel MLOps Community -> 3 videos
+YouTube channels:  24%|██▎       | 4/17 [00:07<00:23,  1.77s/it]ERROR: [youtube:tab] @PracticalAIFM: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+2026-04-22 12:08:36,770 WARNING src.youtube_scraper: no entries for channel @PracticalAIFM
+2026-04-22 12:08:36,770 INFO root: channel Practical AI -> 0 videos
+YouTube channels:  29%|██▉       | 5/17 [00:08<00:17,  1.47s/it]2026-04-22 12:08:38,484 INFO root: channel Gradient Dissent -> 5 videos
+YouTube channels:  35%|███▌      | 6/17 [00:09<00:17,  1.55s/it]2026-04-22 12:08:40,432 INFO root: channel TWIML AI Podcast -> 5 videos
+YouTube channels:  41%|████      | 7/17 [00:11<00:16,  1.68s/it]2026-04-22 12:08:42,242 INFO root: channel The AI Engineer -> 5 videos
+YouTube channels:  47%|████▋     | 8/17 [00:13<00:15,  1.72s/it]2026-04-22 12:08:44,066 INFO root: channel Dwarkesh Patel -> 5 videos
+YouTube channels:  53%|█████▎    | 9/17 [00:15<00:14,  1.75s/it]2026-04-22 12:08:45,976 INFO root: channel Lenny's Podcast -> 5 videos
+YouTube channels:  59%|█████▉    | 10/17 [00:17<00:12,  1.80s/it]ERROR: [youtube:tab] @SoftwareEngineeringDaily: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+2026-04-22 12:08:46,894 WARNING src.youtube_scraper: no entries for channel @SoftwareEngineeringDaily
+2026-04-22 12:08:46,894 INFO root: channel Software Engineering Daily -> 0 videos
+YouTube channels:  65%|██████▍   | 11/17 [00:18<00:09,  1.53s/it]ERROR: [youtube:tab] @HowIAI: This channel does not have a videos tab
+2026-04-22 12:08:47,243 WARNING src.youtube_scraper: no entries for channel @HowIAI
+2026-04-22 12:08:47,243 INFO root: channel How I AI -> 0 videos
+YouTube channels:  71%|███████   | 12/17 [00:18<00:05,  1.17s/it]2026-04-22 12:08:48,943 INFO root: channel a16z Podcast -> 5 videos
+YouTube channels:  76%|███████▋  | 13/17 [00:20<00:05,  1.33s/it]ERROR: [youtube:tab] @SequoiaCapitalPublishing: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
+2026-04-22 12:08:49,884 WARNING src.youtube_scraper: no entries for channel @SequoiaCapitalPublishing
+2026-04-22 12:08:49,884 INFO root: channel Sequoia Training Data -> 0 videos
+YouTube channels:  82%|████████▏ | 14/17 [00:21<00:03,  1.21s/it]2026-04-22 12:08:51,695 INFO root: channel AI Daily Brief -> 5 videos
+YouTube channels:  88%|████████▊ | 15/17 [00:23<00:02,  1.39s/it]2026-04-22 12:08:53,440 INFO root: channel Underscore_ -> 5 videos
+YouTube channels:  94%|█████████▍| 16/17 [00:24<00:01,  1.50s/it]2026-04-22 12:08:54,660 INFO root: channel Génération IA -> 1 videos
+YouTube channels: 100%|██████████| 17/17 [00:26<00:00,  1.42s/it]YouTube channels: 100%|██████████| 17/17 [00:26<00:00,  1.53s/it]
+YouTube queries:   0%|          | 0/8 [00:00<?, ?it/s]2026-04-22 12:08:58,132 INFO root: query 'AI engineer interview 2025' -> 8 videos
+YouTube queries:  12%|█▎        | 1/8 [00:03<00:24,  3.47s/it]2026-04-22 12:09:01,295 INFO root: query 'LLM engineer podcast' -> 8 videos
+YouTube queries:  25%|██▌       | 2/8 [00:06<00:19,  3.29s/it]2026-04-22 12:09:04,818 INFO root: query 'ML engineer interview' -> 8 videos
+YouTube queries:  38%|███▊      | 3/8 [00:10<00:16,  3.40s/it]ERROR: [youtube] PnxmSI2vOrQ: This video is not available
+2026-04-22 12:09:07,854 INFO root: query 'founding engineer AI startup' -> 7 videos
+YouTube queries:  50%|█████     | 4/8 [00:13<00:13,  3.25s/it]2026-04-22 12:09:10,982 INFO root: query 'interview AI researcher' -> 8 videos
+YouTube queries:  62%|██████▎   | 5/8 [00:16<00:09,  3.21s/it]2026-04-22 12:09:13,894 INFO root: query 'agent builder interview' -> 8 videos
+YouTube queries:  75%|███████▌  | 6/8 [00:19<00:06,  3.11s/it]ERROR: [youtube] QSWzo7fUeus: This video is not available
+2026-04-22 12:09:17,623 INFO root: query 'ingénieur IA interview' -> 7 videos
+YouTube queries:  88%|████████▊ | 7/8 [00:22<00:03,  3.31s/it]2026-04-22 12:09:21,295 INFO root: query 'ingénieur machine learning podcast' -> 8 videos
+YouTube queries: 100%|██████████| 8/8 [00:26<00:00,  3.43s/it]YouTube queries: 100%|██████████| 8/8 [00:26<00:00,  3.33s/it]
+RSS feeds:   0%|          | 0/13 [00:00<?, ?it/s]2026-04-22 12:09:23,224 INFO root: feed Latent Space -> 7 episodes
+RSS feeds:   8%|▊         | 1/13 [00:01<00:23,  1.93s/it]2026-04-22 12:09:23,459 WARNING src.rss_scraper: feed No Priors failed: <unknown>:2:0: syntax error
+2026-04-22 12:09:23,459 INFO root: feed No Priors -> 0 episodes
+RSS feeds:  15%|█▌        | 2/13 [00:02<00:10,  1.07it/s]2026-04-22 12:09:24,646 WARNING src.rss_scraper: feed The Cognitive Revolution failed: <unknown>:2:0: syntax error
+2026-04-22 12:09:24,647 INFO root: feed The Cognitive Revolution -> 0 episodes
+RSS feeds:  23%|██▎       | 3/13 [00:03<00:10,  1.05s/it]2026-04-22 12:09:25,016 INFO root: feed MLOps Community Podcast -> 7 episodes
+RSS feeds:  31%|███       | 4/13 [00:03<00:07,  1.28it/s]2026-04-22 12:09:25,984 INFO root: feed Practical AI -> 7 episodes
+RSS feeds:  38%|███▊      | 5/13 [00:04<00:06,  1.18it/s]2026-04-22 12:09:26,300 WARNING src.rss_scraper: feed Gradient Dissent failed: text/html; charset=utf-8 is not an XML media type
+2026-04-22 12:09:26,301 INFO root: feed Gradient Dissent -> 0 episodes
+RSS feeds:  46%|████▌     | 6/13 [00:05<00:04,  1.50it/s]2026-04-22 12:09:26,859 INFO root: feed TWIML AI Podcast -> 7 episodes
+RSS feeds:  54%|█████▍    | 7/13 [00:05<00:03,  1.58it/s]2026-04-22 12:09:27,107 WARNING src.rss_scraper: feed Dwarkesh Podcast failed: <unknown>:2:0: not well-formed (invalid token)
+2026-04-22 12:09:27,107 INFO root: feed Dwarkesh Podcast -> 0 episodes
+RSS feeds:  62%|██████▏   | 8/13 [00:05<00:02,  1.96it/s]2026-04-22 12:09:28,000 INFO root: feed Lenny's Podcast -> 7 episodes
+RSS feeds:  69%|██████▉   | 9/13 [00:06<00:02,  1.59it/s]2026-04-22 12:09:28,549 INFO root: feed Software Engineering Daily -> 0 episodes
+RSS feeds:  77%|███████▋  | 10/13 [00:07<00:01,  1.65it/s]2026-04-22 12:09:30,025 INFO root: feed a16z Podcast -> 7 episodes
+RSS feeds:  85%|████████▍ | 11/13 [00:08<00:01,  1.15it/s]2026-04-22 12:09:30,761 INFO root: feed Training Data (Sequoia) -> 0 episodes
+RSS feeds:  92%|█████████▏| 12/13 [00:09<00:00,  1.20it/s]2026-04-22 12:09:30,969 WARNING src.rss_scraper: feed AI Daily Brief failed: text/html; charset=utf-8 is not an XML media type
+2026-04-22 12:09:30,969 INFO root: feed AI Daily Brief -> 0 episodes
+RSS feeds: 100%|██████████| 13/13 [00:09<00:00,  1.56it/s]RSS feeds: 100%|██████████| 13/13 [00:09<00:00,  1.34it/s]
+2026-04-22 12:09:30,970 INFO root: raw episodes: 163
+2026-04-22 12:09:31,005 INFO root: after dedup: 76
+Classifying:   0%|          | 0/76 [00:00<?, ?it/s]2026-04-22 12:09:31,340 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:33,500 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:37,671 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:37,673 ERROR root: classify failed for https://www.youtube.com/watch?v=yyuVR-ML9X8: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdL5DowQxzLQRAjMhg3'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdL5DowQxzLQRAjMhg3'}
+Classifying:   1%|▏         | 1/76 [00:06<08:15,  6.60s/it]2026-04-22 12:09:37,920 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:40,065 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:44,471 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:44,472 ERROR root: classify failed for https://www.youtube.com/watch?v=Oru2Jxr1xHU: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdLZJ1XpamJV7m794sp'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdLZJ1XpamJV7m794sp'}
+Classifying:   3%|▎         | 2/76 [00:13<08:16,  6.71s/it]2026-04-22 12:09:44,648 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:46,841 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:50,994 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:50,996 ERROR root: classify failed for https://www.youtube.com/watch?v=1dYThQgOyZU: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdM4EZABVuVhmVzBwE3'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdM4EZABVuVhmVzBwE3'}
+Classifying:   4%|▍         | 3/76 [00:19<08:03,  6.63s/it]2026-04-22 12:09:51,140 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:53,282 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:57,436 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:09:57,437 ERROR root: classify failed for https://www.youtube.com/watch?v=eyobeqMdbeI: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdMXn1XL3SkMmzukhru'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdMXn1XL3SkMmzukhru'}
+Classifying:   5%|▌         | 4/76 [00:26<07:51,  6.55s/it]2026-04-22 12:09:57,572 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:00,246 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:04,746 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:04,747 ERROR root: classify failed for https://www.youtube.com/watch?v=tNNFJa5pUEg: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdN3zhCbohojXJ3FK7E'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdN3zhCbohojXJ3FK7E'}
+Classifying:   7%|▋         | 5/76 [00:33<08:04,  6.83s/it]2026-04-22 12:10:05,047 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:07,239 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:11,392 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:11,393 ERROR root: classify failed for https://www.youtube.com/watch?v=9Nvvg0j9_8Q: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdNZVUKY1XC29jwKCXx'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdNZVUKY1XC29jwKCXx'}
+Classifying:   8%|▊         | 6/76 [00:40<07:53,  6.77s/it]2026-04-22 12:10:11,531 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:13,857 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:18,364 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:18,365 ERROR root: classify failed for https://www.youtube.com/watch?v=FYpTTChGhSk: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdP44wFTjuzhY7DfB6R'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdP44wFTjuzhY7DfB6R'}
+Classifying:   9%|▉         | 7/76 [00:47<07:51,  6.83s/it]2026-04-22 12:10:19,083 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:21,278 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:25,429 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:25,430 ERROR root: classify failed for https://www.youtube.com/watch?v=MrJVgw8dBhw: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdPbTKkCxQr5sVGU52m'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdPbTKkCxQr5sVGU52m'}
+Classifying:  11%|█         | 8/76 [00:54<07:49,  6.91s/it]2026-04-22 12:10:25,569 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:27,784 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:32,058 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:32,059 ERROR root: classify failed for https://www.youtube.com/watch?v=wTrv1hMQbVg: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdQ5M7Ae9jrSqLTSgLp'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdQ5M7Ae9jrSqLTSgLp'}
+Classifying:  12%|█▏        | 9/76 [01:00<07:36,  6.82s/it]2026-04-22 12:10:32,192 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:34,360 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:38,510 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:38,512 ERROR root: classify failed for https://www.youtube.com/watch?v=XoAo5-kv80w: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdQZRZaTFGLTvo1hSWo'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdQZRZaTFGLTvo1hSWo'}
+Classifying:  13%|█▎        | 10/76 [01:07<07:22,  6.71s/it]2026-04-22 12:10:38,647 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:40,797 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:44,935 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:44,936 ERROR root: classify failed for https://www.youtube.com/watch?v=CS5Cmz5FssI: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdR2w2nfSJKZe8ptG1Q'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdR2w2nfSJKZe8ptG1Q'}
+Classifying:  14%|█▍        | 11/76 [01:13<07:10,  6.62s/it]2026-04-22 12:10:45,086 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:47,283 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:51,748 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:51,749 ERROR root: classify failed for https://www.youtube.com/watch?v=wjk0ulMAkbc: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdRX3xod9LBNiJVbQhV'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdRX3xod9LBNiJVbQhV'}
+Classifying:  16%|█▌        | 12/76 [01:20<07:07,  6.68s/it]2026-04-22 12:10:51,899 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:54,042 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:58,196 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:10:58,198 ERROR root: classify failed for https://www.youtube.com/watch?v=Q8Fkpi18QXU: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdS1awgyrjwactmg8nk'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdS1awgyrjwactmg8nk'}
+Classifying:  17%|█▋        | 13/76 [01:27<06:56,  6.61s/it]2026-04-22 12:10:58,398 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:11:00,623 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:11:04,761 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:11:04,761 ERROR root: classify failed for https://www.youtube.com/watch?v=myP8UjAM1pk: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdSVg8zZmbxKNXyaCga'}
+Traceback (most recent call last):
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/main.py", line 92, in classify_all
+    result = classifier.classify(
+        title=ep.get("title", ""),
+        description=ep.get("description", ""),
+        channel=ep.get("channel_title", ""),
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+          ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+          ~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "/opt/anaconda3/lib/python3.13/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.13/site-packages/tenacity/__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "/Users/elyottrubert/Documents/GitHub/ agent 1 Teste Mirakle/podcast_scraper/src/classifier.py", line 65, in classify
+    msg = self.client.messages.create(
+        model=self.model,
+    ...<8 lines>...
+        messages=[{"role": "user", "content": user_content}],
+    )
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_utils/_utils.py", line 282, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/resources/messages/messages.py", line 996, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/v1/messages",
+        ^^^^^^^^^^^^^^^
+    ...<30 lines>...
+        stream_cls=Stream[RawMessageStreamEvent],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1364, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.13/site-packages/anthropic/_base_client.py", line 1137, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.BadRequestError: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CaJdSVg8zZmbxKNXyaCga'}
+Classifying:  18%|█▊        | 14/76 [01:33<06:48,  6.59s/it]2026-04-22 12:11:04,960 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"
+2026-04-22 12:11:07,098 INFO httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 400 Bad Request"

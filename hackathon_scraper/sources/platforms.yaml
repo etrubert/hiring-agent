@@ -1,0 +1,104 @@
+# Platform-specific entry points. Each scraper consumes its own block.
+devpost:
+  enabled: true
+  search_urls:
+    # Upcoming / open — what you can still join
+    - "https://devpost.com/api/hackathons?search=ai&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=agents&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=agent&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=llm&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=generative&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=machine+learning&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=rag&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=mcp&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=claude&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=openai&status[]=upcoming&status[]=open"
+    # Ended — gives access to project galleries (participants + github)
+    - "https://devpost.com/api/hackathons?search=ai&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=agents&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=agent&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=llm&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=generative&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=machine+learning&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=rag&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=mcp&status[]=ended"
+  max_pages: 3
+
+mlh:
+  enabled: true
+  seasons_url: "https://mlh.io/seasons/2026/events"
+  fallback_urls:
+    - "https://mlh.io/seasons/2025/events"
+
+hackerearth:
+  enabled: true
+  listing_url: "https://www.hackerearth.com/challenges/"
+  api_url: "https://www.hackerearth.com/chrome-ext/events/"
+
+hackernews:
+  enabled: true
+  algolia_url: "https://hn.algolia.com/api/v1/search_by_date"
+  queries:
+    - "ai hackathon"
+    - "agents hackathon"
+    - "agent hackathon"
+    - "llm hackathon"
+    - "genai hackathon"
+    - "rag hackathon"
+    - "mcp hackathon"
+    - "claude hackathon"
+    - "openai hackathon"
+    - "anthropic hackathon"
+
+ai_tinkerers:
+  enabled: true
+  urls:
+    - "https://sanfrancisco.aitinkerers.org/"
+    - "https://newyork.aitinkerers.org/"
+    - "https://paris.aitinkerers.org/"
+    - "https://london.aitinkerers.org/"
+    - "https://berlin.aitinkerers.org/"
+    - "https://amsterdam.aitinkerers.org/"
+    - "https://toronto.aitinkerers.org/"
+    - "https://seattle.aitinkerers.org/"
+    - "https://boston.aitinkerers.org/"
+    - "https://austin.aitinkerers.org/"
+    - "https://losangeles.aitinkerers.org/"
+    - "https://singapore.aitinkerers.org/"
+    - "https://tokyo.aitinkerers.org/"
+    - "https://bangalore.aitinkerers.org/"
+
+luma:
+  enabled: false
+  note: "requires playwright or official API key — stub for now"
+
+linkedin:
+  enabled: false
+  note: "search endpoints require authenticated cookie — stub for now"
+
+eventbrite:
+  enabled: false
+  api_url: "https://www.eventbriteapi.com/v3/events/search/"
+  queries:
+    - "AI hackathon"
+    - "LLM hackathon"
+    - "agents hackathon"
+
+meetup:
+  enabled: false
+  note: "GraphQL requires login — stub for now"
+
+reddit:
+  enabled: false
+  subreddits:
+    - LocalLLaMA
+    - MachineLearning
+    - LLMDevs
+    - AI_Agents
+
+tavily:
+  enabled: false
+  queries:
+    - "upcoming AI hackathon 2026"
+    - "LLM hackathon 2026"
+    - "agents hackathon 2026"

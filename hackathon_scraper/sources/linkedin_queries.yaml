@@ -1,0 +1,11 @@
+# Queries that the (future) LinkedIn scraper will run. Kept here so the list
+# is version-controlled even while the scraper itself is a stub.
+queries:
+  - "AI hackathon"
+  - "LLM hackathon"
+  - "agents hackathon"
+  - "generative AI hackathon"
+  - "hackathon IA"
+  - "hackathon intelligence artificielle"
+  - "agentic hackathon"
+  - "MCP hackathon"

@@ -1,0 +1,15 @@
+.env
+data/raw/*
+data/filtered/*
+data/final/*
+data/cache/*
+logs/*
+!data/raw/.gitkeep
+!data/filtered/.gitkeep
+!data/final/.gitkeep
+!data/cache/.gitkeep
+!logs/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+venv/

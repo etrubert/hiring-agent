@@ -1,0 +1,83 @@
+2026-04-22 12:25:01,930 INFO root: resumed from cache: 76 episodes
+2026-04-22 12:25:01,930 INFO root: classification provider: ollama
+Classifying:   0%|          | 0/76 [00:00<?, ?it/s]2026-04-22 12:25:07,114 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   1%|▏         | 1/76 [00:05<06:15,  5.01s/it]2026-04-22 12:25:12,349 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   3%|▎         | 2/76 [00:10<06:20,  5.14s/it]2026-04-22 12:25:16,880 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   4%|▍         | 3/76 [00:14<05:54,  4.86s/it]2026-04-22 12:25:21,660 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   5%|▌         | 4/76 [00:19<05:47,  4.83s/it]2026-04-22 12:25:26,275 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   7%|▋         | 5/76 [00:24<05:37,  4.75s/it]2026-04-22 12:25:31,605 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   8%|▊         | 6/76 [00:29<05:46,  4.95s/it]2026-04-22 12:25:37,067 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:   9%|▉         | 7/76 [00:34<05:53,  5.12s/it]2026-04-22 12:25:42,328 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  11%|█         | 8/76 [00:40<05:51,  5.16s/it]2026-04-22 12:25:48,135 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  12%|█▏        | 9/76 [00:46<05:59,  5.36s/it]2026-04-22 12:25:51,694 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  13%|█▎        | 10/76 [00:49<05:17,  4.81s/it]2026-04-22 12:25:55,179 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  14%|█▍        | 11/76 [00:53<04:46,  4.40s/it]2026-04-22 12:25:58,552 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  16%|█▌        | 12/76 [00:56<04:21,  4.09s/it]2026-04-22 12:26:03,615 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  17%|█▋        | 13/76 [01:01<04:36,  4.38s/it]2026-04-22 12:26:08,411 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  18%|█▊        | 14/76 [01:06<04:39,  4.51s/it]2026-04-22 12:26:13,078 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  20%|█▉        | 15/76 [01:10<04:38,  4.56s/it]2026-04-22 12:26:18,555 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  21%|██        | 16/76 [01:16<04:50,  4.83s/it]2026-04-22 12:26:24,692 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  22%|██▏       | 17/76 [01:22<05:08,  5.23s/it]2026-04-22 12:26:31,031 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  24%|██▎       | 18/76 [01:28<05:22,  5.56s/it]2026-04-22 12:26:37,291 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  25%|██▌       | 19/76 [01:35<05:28,  5.77s/it]2026-04-22 12:26:41,297 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  26%|██▋       | 20/76 [01:39<04:53,  5.24s/it]2026-04-22 12:26:45,717 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  28%|██▊       | 21/76 [01:43<04:34,  4.99s/it]2026-04-22 12:26:51,773 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  29%|██▉       | 22/76 [01:49<04:46,  5.31s/it]2026-04-22 12:26:57,153 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  30%|███       | 23/76 [01:55<04:42,  5.33s/it]2026-04-22 12:27:01,644 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  32%|███▏      | 24/76 [01:59<04:24,  5.08s/it]2026-04-22 12:27:05,875 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  33%|███▎      | 25/76 [02:03<04:06,  4.83s/it]2026-04-22 12:27:09,259 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  34%|███▍      | 26/76 [02:07<03:39,  4.39s/it]2026-04-22 12:27:14,941 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  36%|███▌      | 27/76 [02:12<03:54,  4.78s/it]2026-04-22 12:27:19,103 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  37%|███▋      | 28/76 [02:16<03:40,  4.59s/it]2026-04-22 12:27:24,513 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  38%|███▊      | 29/76 [02:22<03:47,  4.84s/it]2026-04-22 12:27:30,484 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  39%|███▉      | 30/76 [02:28<03:58,  5.18s/it]2026-04-22 12:27:34,200 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  41%|████      | 31/76 [02:32<03:33,  4.74s/it]2026-04-22 12:27:39,513 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  42%|████▏     | 32/76 [02:37<03:36,  4.91s/it]2026-04-22 12:27:42,768 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  43%|████▎     | 33/76 [02:40<03:09,  4.41s/it]2026-04-22 12:27:47,795 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  45%|████▍     | 34/76 [02:45<03:13,  4.60s/it]2026-04-22 12:27:53,007 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  46%|████▌     | 35/76 [02:50<03:16,  4.78s/it]2026-04-22 12:27:58,100 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  47%|████▋     | 36/76 [02:55<03:15,  4.88s/it]2026-04-22 12:28:03,227 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  49%|████▊     | 37/76 [03:01<03:13,  4.95s/it]2026-04-22 12:28:08,670 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  50%|█████     | 38/76 [03:06<03:13,  5.10s/it]2026-04-22 12:28:13,442 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  51%|█████▏    | 39/76 [03:11<03:05,  5.00s/it]2026-04-22 12:28:19,118 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  53%|█████▎    | 40/76 [03:17<03:07,  5.20s/it]2026-04-22 12:28:23,926 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  54%|█████▍    | 41/76 [03:21<02:57,  5.08s/it]2026-04-22 12:28:28,640 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  55%|█████▌    | 42/76 [03:26<02:49,  4.97s/it]2026-04-22 12:28:32,935 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  57%|█████▋    | 43/76 [03:30<02:37,  4.77s/it]2026-04-22 12:28:37,210 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  58%|█████▊    | 44/76 [03:35<02:27,  4.62s/it]2026-04-22 12:28:40,980 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  59%|█████▉    | 45/76 [03:38<02:15,  4.37s/it]2026-04-22 12:28:45,240 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  61%|██████    | 46/76 [03:43<02:10,  4.33s/it]2026-04-22 12:28:49,970 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  62%|██████▏   | 47/76 [03:47<02:09,  4.45s/it]2026-04-22 12:28:55,246 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  63%|██████▎   | 48/76 [03:53<02:11,  4.70s/it]2026-04-22 12:28:59,224 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  64%|██████▍   | 49/76 [03:57<02:01,  4.48s/it]2026-04-22 12:29:02,570 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  66%|██████▌   | 50/76 [04:00<01:47,  4.14s/it]2026-04-22 12:29:06,820 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  67%|██████▋   | 51/76 [04:04<01:44,  4.17s/it]2026-04-22 12:29:11,068 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  68%|██████▊   | 52/76 [04:08<01:40,  4.20s/it]2026-04-22 12:29:14,852 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  70%|██████▉   | 53/76 [04:12<01:33,  4.07s/it]2026-04-22 12:29:18,305 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  71%|███████   | 54/76 [04:16<01:25,  3.89s/it]2026-04-22 12:29:21,516 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  72%|███████▏  | 55/76 [04:19<01:17,  3.68s/it]2026-04-22 12:29:25,371 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  74%|███████▎  | 56/76 [04:23<01:14,  3.74s/it]2026-04-22 12:29:29,542 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  75%|███████▌  | 57/76 [04:27<01:13,  3.87s/it]2026-04-22 12:29:34,228 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  76%|███████▋  | 58/76 [04:32<01:14,  4.11s/it]2026-04-22 12:29:39,035 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  78%|███████▊  | 59/76 [04:36<01:13,  4.32s/it]2026-04-22 12:29:44,067 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  79%|███████▉  | 60/76 [04:41<01:12,  4.53s/it]2026-04-22 12:29:48,710 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  80%|████████  | 61/76 [04:46<01:08,  4.57s/it]2026-04-22 12:29:54,036 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  82%|████████▏ | 62/76 [04:51<01:07,  4.79s/it]2026-04-22 12:29:58,881 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  83%|████████▎ | 63/76 [04:56<01:02,  4.81s/it]2026-04-22 12:30:04,185 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  84%|████████▍ | 64/76 [05:02<00:59,  4.96s/it]2026-04-22 12:30:10,039 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  86%|████████▌ | 65/76 [05:07<00:57,  5.23s/it]2026-04-22 12:30:15,644 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  87%|████████▋ | 66/76 [05:13<00:53,  5.34s/it]2026-04-22 12:30:21,125 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  88%|████████▊ | 67/76 [05:19<00:48,  5.38s/it]2026-04-22 12:30:27,127 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  89%|████████▉ | 68/76 [05:25<00:44,  5.57s/it]2026-04-22 12:30:31,886 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  91%|█████████ | 69/76 [05:29<00:37,  5.33s/it]2026-04-22 12:30:37,319 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  92%|█████████▏| 70/76 [05:35<00:32,  5.36s/it]2026-04-22 12:30:41,218 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  93%|█████████▎| 71/76 [05:39<00:24,  4.92s/it]2026-04-22 12:30:47,032 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  95%|█████████▍| 72/76 [05:44<00:20,  5.19s/it]2026-04-22 12:30:52,122 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  96%|█████████▌| 73/76 [05:50<00:15,  5.16s/it]2026-04-22 12:30:57,056 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  97%|█████████▋| 74/76 [05:54<00:10,  5.09s/it]2026-04-22 12:31:02,249 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying:  99%|█████████▊| 75/76 [06:00<00:05,  5.12s/it]2026-04-22 12:31:07,364 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Classifying: 100%|██████████| 76/76 [06:05<00:00,  5.12s/it]Classifying: 100%|██████████| 76/76 [06:05<00:00,  4.81s/it]
+2026-04-22 12:31:07,401 INFO src.exporter: wrote 76 rows to data/final/podcasts-1.csv
+2026-04-22 12:31:07,405 INFO src.exporter: wrote 76 rows to data/final/podcasts-1.json
+2026-04-22 12:31:07,778 INFO src.exporter: wrote excel with per-role tabs to data/final/podcasts-1.xlsx
+2026-04-22 12:31:07,778 INFO root: done — final rows: 76
