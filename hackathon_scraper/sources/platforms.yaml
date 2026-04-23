@@ -2,6 +2,24 @@
 devpost:
   enabled: true
   search_urls:
+    # France-specific — try to surface Paris / French hackathons
+    - "https://devpost.com/api/hackathons?search=paris&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=paris&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=france&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=france&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=french&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=french&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=station+f&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=station+f&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=lyon&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=lyon&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=toulouse&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=mistral&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=mistral&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=hec&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=hec&status[]=ended"
+    - "https://devpost.com/api/hackathons?search=42+ai&status[]=upcoming&status[]=open"
+    - "https://devpost.com/api/hackathons?search=42+ai&status[]=ended"
     # Upcoming / open — what you can still join
     - "https://devpost.com/api/hackathons?search=ai&status[]=upcoming&status[]=open"
     - "https://devpost.com/api/hackathons?search=agents&status[]=upcoming&status[]=open"
@@ -39,6 +57,15 @@ hackernews:
   enabled: true
   algolia_url: "https://hn.algolia.com/api/v1/search_by_date"
   queries:
+    # France-oriented
+    - "paris hackathon ai"
+    - "paris hackathon llm"
+    - "hackathon france ai"
+    - "mistral hackathon"
+    - "station f hackathon"
+    - "hec paris hackathon"
+    - "42 paris hackathon"
+    # Generic AI
     - "ai hackathon"
     - "agents hackathon"
     - "agent hackathon"
@@ -52,21 +79,15 @@ hackernews:
 
 ai_tinkerers:
   enabled: true
+  # Paris first — primary French hub
   urls:
+    - "https://paris.aitinkerers.org/"
+    # Other hubs kept for context (detector filters out non-FR)
     - "https://sanfrancisco.aitinkerers.org/"
     - "https://newyork.aitinkerers.org/"
-    - "https://paris.aitinkerers.org/"
     - "https://london.aitinkerers.org/"
     - "https://berlin.aitinkerers.org/"
     - "https://amsterdam.aitinkerers.org/"
-    - "https://toronto.aitinkerers.org/"
-    - "https://seattle.aitinkerers.org/"
-    - "https://boston.aitinkerers.org/"
-    - "https://austin.aitinkerers.org/"
-    - "https://losangeles.aitinkerers.org/"
-    - "https://singapore.aitinkerers.org/"
-    - "https://tokyo.aitinkerers.org/"
-    - "https://bangalore.aitinkerers.org/"
 
 luma:
   enabled: false
@@ -80,9 +101,9 @@ eventbrite:
   enabled: false
   api_url: "https://www.eventbriteapi.com/v3/events/search/"
   queries:
-    - "AI hackathon"
-    - "LLM hackathon"
-    - "agents hackathon"
+    - "AI hackathon Paris"
+    - "LLM hackathon France"
+    - "agents hackathon France"
 
 meetup:
   enabled: false
@@ -99,6 +120,13 @@ reddit:
 tavily:
   enabled: false
   queries:
-    - "upcoming AI hackathon 2026"
-    - "LLM hackathon 2026"
-    - "agents hackathon 2026"
+    - "hackathon AI Paris 2026"
+    - "hackathon LLM France 2026"
+    - "hackathon agents France"
+    - "hackathon Mistral Paris"
+    - "hackathon Station F Paris"
+    - "hackathon HEC Paris AI"
+    - "hackathon 42 Paris AI"
+    - "hackathon Lyon AI"
+    - "hackathon Toulouse AI"
+    - "hackathon Île-de-France intelligence artificielle"

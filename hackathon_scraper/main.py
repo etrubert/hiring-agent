@@ -12,6 +12,7 @@ import yaml
 from tqdm import tqdm
 
 import config
+from src.extractors.france_detector import detect_french_city
 from src.extractors.relevance_scorer import annotate
 from src.scrapers.ai_tinkerers_scraper import AITinkerersScraper
 from src.scrapers.devpost_projects_scraper import enrich_with_projects
@@ -28,7 +29,9 @@ from src.scrapers.tavily_discovery import TavilyDiscovery
 from src.storage.csv_writer import write_csvs, write_projects_csv
 from src.storage.deduplicator import deduplicate
 from src.storage.excel_writer import write_excel
+from src.storage.readable_csv_writer import write_readable_csv
 from src.storage.readable_writer import write_readable_report
+from src.storage.readable_xlsx_writer import write_readable_xlsx
 from src.utils.logger import setup_logging
 
 SCRAPERS = {
@@ -111,6 +114,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Fetch each participant's Devpost profile to extract LinkedIn/GitHub/Twitter. Slow.",
     )
+    p.add_argument(
+        "--france-only",
+        action="store_true",
+        help="Keep only hackathons detected as happening in France (city_fr populated).",
+    )
     p.add_argument("--stem", default=datetime.now().strftime("%Y%m%d_%H%M"))
     return p.parse_args()
 
@@ -147,6 +155,8 @@ def main() -> int:
     save_intermediate(deduped, config.DATA_FILTERED / "hackathons_deduped.json")
 
     scored = [annotate(h) for h in deduped]
+    for h in scored:
+        h["city_fr"] = detect_french_city(h) or ""
     save_intermediate(scored, config.DATA_FILTERED / "hackathons_scored.json")
 
     if args.keep_all:
@@ -154,6 +164,10 @@ def main() -> int:
     else:
         kept = [h for h in scored if h.get("keep") and (h.get("relevance_score") or 0) >= args.min_score]
     logging.info("kept after filter: %d (min_score=%d)", len(kept), args.min_score)
+
+    if args.france_only:
+        kept = [h for h in kept if h.get("city_fr")]
+        logging.info("kept after France filter: %d", len(kept))
 
     kept.sort(key=lambda h: h.get("relevance_score") or 0, reverse=True)
 
@@ -172,6 +186,14 @@ def main() -> int:
     report_path = config.DATA_FINAL / f"report_{args.stem}.txt"
     write_readable_report(kept, projects, report_path)
     paths["report"] = report_path
+
+    report_csv_path = config.DATA_FINAL / f"report_{args.stem}.csv"
+    write_readable_csv(kept, projects, report_csv_path)
+    paths["report_csv"] = report_csv_path
+
+    report_xlsx_path = config.DATA_FINAL / f"report_{args.stem}.xlsx"
+    write_readable_xlsx(kept, projects, report_xlsx_path)
+    paths["report_xlsx"] = report_xlsx_path
 
     if args.excel:
         excel_path = config.DATA_FINAL / f"hackathons_{args.stem}.xlsx"

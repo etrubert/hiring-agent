@@ -1,0 +1,24 @@
+search_queries:
+  - query: "AI Engineer"
+    location: "Paris"
+  - query: "AI Engineer"
+    location: "Bordeaux"
+  - query: "Agent Builder LangChain"
+    location: "Paris"
+  - query: "Senior Data Scientist"
+    location: "Paris"
+  - query: "Senior Data Scientist"
+    location: "Bordeaux"
+  - query: "ML Engineer LLM"
+    location: "Paris"
+  - query: "AI Engineering Manager"
+    location: "Paris"
+  - query: "RAG LangChain"
+    location: "Paris"
+  - query: "Data Scientist Deep Learning"
+    location: "Paris"
+  - query: "NLP Engineer"
+    location: "Paris"
+
+max_profiles_per_query: 15
+max_total_profiles: 100

@@ -1,0 +1,48 @@
+mirakl_competitors:
+  mistral_ai:
+    names: ["Mistral AI", "Mistral", "MistralAI"]
+    keywords: ["mistral", "mixtral"]
+
+  hugging_face:
+    names: ["Hugging Face", "HuggingFace", "HF"]
+    keywords: ["hugging face", "huggingface"]
+
+  criteo:
+    names: ["Criteo"]
+    keywords: ["criteo"]
+
+  contentsquare:
+    names: ["Contentsquare", "Content Square", "ContentSquare"]
+    keywords: ["contentsquare", "content square"]
+
+  dataiku:
+    names: ["Dataiku"]
+    keywords: ["dataiku", "DSS"]
+
+  algolia:
+    names: ["Algolia"]
+    keywords: ["algolia"]
+
+  back_market:
+    names: ["Back Market", "BackMarket"]
+    keywords: ["back market", "backmarket"]
+
+  alan:
+    names: ["Alan"]
+    keywords: ["alan.com", "alan santé"]
+
+  dust:
+    names: ["Dust", "Dust.tt"]
+    keywords: ["dust.tt", "dust ai"]
+
+  qonto:
+    names: ["Qonto"]
+    keywords: ["qonto"]
+
+  leboncoin:
+    names: ["Leboncoin", "Adevinta", "Le Bon Coin"]
+    keywords: ["leboncoin", "adevinta"]
+
+  salesforce_einstein:
+    names: ["Salesforce", "Salesforce Einstein", "Einstein AI"]
+    keywords: ["salesforce", "einstein"]

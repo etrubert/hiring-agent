@@ -1,0 +1,72 @@
+skills_by_category:
+  llm_stack:
+    - "LLM"
+    - "Large Language Model"
+    - "RAG"
+    - "Retrieval Augmented Generation"
+    - "MCP"
+    - "Model Context Protocol"
+    - "LangChain"
+    - "LangGraph"
+    - "LangFlow"
+    - "LlamaIndex"
+    - "CrewAI"
+    - "AutoGen"
+
+  ml_core:
+    - "Machine Learning"
+    - "Deep Learning"
+    - "NLP"
+    - "Natural Language Processing"
+    - "Computer Vision"
+    - "TensorFlow"
+    - "PyTorch"
+    - "scikit-learn"
+    - "Keras"
+    - "Hugging Face"
+    - "Transformers"
+
+  languages:
+    - "Python"
+    - "SQL"
+    - "R"
+    - "Scala"
+
+  data_stack:
+    - "Databricks"
+    - "Spark"
+    - "PySpark"
+    - "Delta Lake"
+    - "Airflow"
+    - "dbt"
+    - "Snowflake"
+    - "BigQuery"
+
+  automation:
+    - "n8n"
+    - "Dust"
+    - "Make"
+    - "Zapier"
+    - "APIs"
+    - "Webhooks"
+    - "REST API"
+
+  deployment:
+    - "MLOps"
+    - "Docker"
+    - "Kubernetes"
+    - "AWS SageMaker"
+    - "Vertex AI"
+    - "Azure ML"
+    - "déploiement production"
+    - "production deployment"
+
+  soft_skills:
+    - "Leadership technique"
+    - "Technical Leadership"
+    - "Management d'équipe"
+    - "Team Management"
+    - "Stakeholder management"
+    - "Product mindset"
+
+min_skills_match: 2

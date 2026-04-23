@@ -1,0 +1,70 @@
+roles:
+  agent_builder:
+    fr:
+      - "agent builder"
+      - "constructeur d'agents"
+      - "ingénieur agents IA"
+      - "agent IA"
+      - "agents IA"
+      - "agentic"
+    en:
+      - "agent builder"
+      - "AI agent engineer"
+      - "agentic AI engineer"
+      - "AI agents developer"
+      - "AI agents"
+      - "agentic"
+
+  ai_engineering_manager:
+    fr:
+      - "manager ingénierie IA"
+      - "responsable IA"
+      - "lead IA"
+      - "directeur technique IA"
+      - "directeur IA"
+      - "head of AI"
+      - "head of ML"
+    en:
+      - "AI engineering manager"
+      - "ML engineering manager"
+      - "head of AI engineering"
+      - "head of AI"
+      - "head of ML"
+      - "AI team lead"
+      - "engineering manager AI"
+
+  senior_ai_engineer:
+    fr:
+      - "ingénieur IA senior"
+      - "senior ingénieur IA"
+      - "ingénieur machine learning senior"
+      - "ingénieur IA"
+      - "ingénieur ML"
+      - "ingénieur machine learning"
+      - "IA engineer"
+    en:
+      - "senior AI engineer"
+      - "staff AI engineer"
+      - "lead AI engineer"
+      - "principal AI engineer"
+      - "senior ML engineer"
+      - "staff ML engineer"
+      - "lead ML engineer"
+      - "AI engineer"
+      - "ML engineer"
+      - "machine learning engineer"
+      - "MLE"
+      - "LLM engineer"
+
+  senior_data_scientist:
+    fr:
+      - "data scientist senior"
+      - "senior data scientist"
+      - "lead data scientist"
+      - "data scientist"
+    en:
+      - "senior data scientist"
+      - "staff data scientist"
+      - "lead data scientist"
+      - "principal data scientist"
+      - "data scientist"

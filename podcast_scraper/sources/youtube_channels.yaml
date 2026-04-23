@@ -1,47 +1,63 @@
 # YouTube channels (handle or channel ID).
 # Format: list of entries with `name` and `handle` (preferred) or `channel_id`.
+# Current focus: French-language AI / tech / data / engineering podcasts.
+# Kept a few top US channels at the end — the FR language filter drops
+# English episodes automatically, but keeping them catches FR interviews
+# on international shows (ex: Mistral on Latent Space).
 channels:
-  - name: Latent Space
-    handle: "@LatentSpacePod"
-  - name: No Priors Podcast
-    handle: "@NoPriorsPodcast"
-  - name: Cognitive Revolution
-    handle: "@CognitiveRevolutionPodcast"
-  - name: MLOps Community
-    handle: "@MLOps"
-  - name: Practical AI
-    handle: "@PracticalAIFM"
-  - name: Gradient Dissent
-    handle: "@WeightsBiases"
-  - name: TWIML AI Podcast
-    handle: "@twimlai"
-  - name: The AI Engineer
-    handle: "@aiDotEngineer"
-  - name: Dwarkesh Patel
-    handle: "@DwarkeshPatel"
-  - name: Lenny's Podcast
-    handle: "@LennysPodcast"
-  - name: Software Engineering Daily
-    handle: "@SoftwareEngineeringDaily"
-  - name: How I AI
-    handle: "@HowIAI"
-  - name: a16z Podcast
-    handle: "@a16z"
-  - name: Sequoia Training Data
-    handle: "@SequoiaCapitalPublishing"
-  - name: AI Daily Brief
-    handle: "@AIDailyBrief"
+  # --- FR AI / data / engineering podcasts (verified handles) ---
   - name: Underscore_
     handle: "@Underscore_"
   - name: Génération IA
     handle: "@GenerationIA"
+  - name: LeCoinStat
+    handle: "@LeCoinStat"
+  - name: Comptoir IA
+    handle: "@nico16184"
+  - name: Data Driven 101 (Scopeo)
+    handle: "@scopeo"
+  - name: Trench Tech
+    handle: "@trenchtechoff"
+  - name: Micode
+    handle: "@Micode"
+  - name: Thinkerview
+    handle: "@thinkerview"
+  - name: Tech Café
+    handle: "@techcafepodcast"
+  - name: Data Gen
+    handle: "@datagen_podcast"
+  - name: IA Café
+    handle: "@iacafe"
+  - name: Philosophy of AI FR
+    handle: "@PhilosophyOfAIFR"
+
+  # --- US heavyweights kept in case FR guests appear (filtered by lang) ---
+  - name: Latent Space
+    handle: "@LatentSpacePod"
+  - name: The AI Engineer
+    handle: "@aiDotEngineer"
+  - name: a16z Podcast
+    handle: "@a16z"
 
 search_queries:
-  - "AI engineer interview 2025"
-  - "LLM engineer podcast"
-  - "ML engineer interview"
-  - "founding engineer AI startup"
-  - "interview AI researcher"
-  - "agent builder interview"
-  - "ingénieur IA interview"
-  - "ingénieur machine learning podcast"
+  # High-signal FR AI queries
+  - "podcast intelligence artificielle français"
+  - "podcast IA français interview"
+  - "ingénieur IA interview français"
+  - "ingénieur machine learning podcast français"
+  - "data scientist interview français"
+  - "agent builder français IA"
+  - "LLM français interview podcast"
+  - "chercheur IA France podcast"
+  - "founder IA française podcast"
+  - "Mistral AI interview français"
+  - "Hugging Face français interview"
+  - "Kyutai podcast français"
+  - "IA générative podcast France"
+  - "startup IA France interview"
+  - "MLOps français podcast"
+  - "data engineer podcast français"
+  - "intelligence artificielle conférence France 2025"
+  - "Station F IA podcast"
+  - "IA appliquée entreprise France podcast"
+  - "chercheur INRIA podcast"

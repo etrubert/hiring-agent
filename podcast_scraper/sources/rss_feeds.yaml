@@ -1,28 +1,20 @@
-# Podcast RSS feeds. Add new feeds here as needed.
+# Podcast RSS feeds. French AI / tech focus first; kept a couple of
+# international feeds in case they host FR guests (language filter drops EN).
 feeds:
+  # --- French feeds (verified via Apple Podcasts / Ausha / Spotify) ---
+  - name: Data Driven 101
+    url: https://feed.ausha.co/Zg3aMSGpk5Om
+  - name: Trench Tech
+    url: https://feed.ausha.co/mfY6aeqfpkVV
+  - name: Underscore_
+    url: https://feeds.acast.com/public/shows/67a36715b6ed5c74c2b74b02
+  - name: Comptoir IA
+    url: https://feeds.acast.com/public/shows/64e9c42dd77c9a0011c8e252
+  - name: Tech Café
+    url: https://tech-cafe.net/feed/podcast
+
+  # --- US heavyweights kept for occasional FR guests ---
   - name: Latent Space
     url: https://api.substack.com/feed/podcast/1084089.rss
-  - name: No Priors
-    url: https://feeds.transistor.fm/no-priors-artificial-intelligence-machine-learning
-  - name: The Cognitive Revolution
-    url: https://feeds.transistor.fm/the-cognitive-revolution-how-ai-changes-everything
-  - name: MLOps Community Podcast
-    url: https://feeds.buzzsprout.com/1758599.rss
-  - name: Practical AI
-    url: https://changelog.com/practicalai/feed
-  - name: Gradient Dissent
-    url: https://feeds.simplecast.com/5SAGVTM4
-  - name: TWIML AI Podcast
-    url: https://feeds.megaphone.fm/MLN2155636147
-  - name: Dwarkesh Podcast
-    url: https://api.substack.com/feed/podcast/108896.rss
-  - name: Lenny's Podcast
-    url: https://api.substack.com/feed/podcast/10845.rss
-  - name: Software Engineering Daily
-    url: https://feeds.megaphone.fm/software-engineering-daily
-  - name: a16z Podcast
-    url: https://feeds.simplecast.com/JGE3yC0V
-  - name: Training Data (Sequoia)
-    url: https://feeds.megaphone.fm/SEQOIA4973999141
-  - name: AI Daily Brief
-    url: https://feeds.simplecast.com/Krh_YdZX
+  - name: The AI Engineer
+    url: https://feeds.transistor.fm/ai-engineer-podcast

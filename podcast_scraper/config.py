@@ -14,6 +14,9 @@ ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
 CLAUDE_MODEL = os.getenv("CLAUDE_MODEL", "claude-haiku-4-5")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:4b")
 
+SUPABASE_URL = os.getenv("SUPABASE_URL", "")
+SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")
+
 MAX_PER_CHANNEL = int(os.getenv("MAX_PER_CHANNEL", "50"))
 MAX_PER_QUERY = int(os.getenv("MAX_PER_QUERY", "50"))
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")

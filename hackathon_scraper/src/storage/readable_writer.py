@@ -76,6 +76,8 @@ def write_readable_report(
         lines.append(f"=== [{idx}/{total}] {h.get('title') or '(no title)'} ===")
         lines.append(f"  Platform     : {h.get('source_platform') or '-'}")
         lines.append(f"  Hackathon URL: {h.get('url') or '-'}")
+        if h.get("city_fr"):
+            lines.append(f"  City (FR)    : {h['city_fr']}")
         if h.get("start_date") or h.get("end_date"):
             lines.append(f"  Dates        : {h.get('start_date') or '?'}  ->  {h.get('end_date') or '?'}")
         if h.get("location"):

@@ -17,6 +17,7 @@ from src.extractor import extract_all
 from src.classifier import Classifier
 from src.deduplicator import deduplicate
 from src.exporter import export_csv, export_json, export_excel, export_readable, save_intermediate
+from src.lang_filter import filter_french
 
 
 def setup_logging() -> None:
@@ -135,6 +136,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--classify", action="store_true", help="Run classification (uses LLM_PROVIDER)")
     p.add_argument("--resume", action="store_true", help="Skip scraping; load episodes_enriched.json from cache")
     p.add_argument("--ai-only", action="store_true", help="Keep only is_ai_guest=True rows in final export")
+    p.add_argument("--fr-only", action="store_true", help="Keep only French-language episodes (heuristic language filter).")
     p.add_argument("--output", default=str(config.DATA_FINAL / "podcasts.csv"))
     p.add_argument("--excel", action="store_true", help="Also write Excel file with per-role tabs")
     p.add_argument("--json", action="store_true", help="Also write JSON file")
@@ -174,8 +176,12 @@ def main() -> int:
         save_intermediate(deduped, config.DATA_PROCESSED / "episodes_classified.json")
 
     final = deduped
+    if args.fr_only:
+        before = len(final)
+        final = filter_french(final)
+        logging.info("fr-only filter: %d -> %d rows kept", before, len(final))
     if args.ai_only:
-        final = [ep for ep in deduped if ep.get("is_ai_guest")]
+        final = [ep for ep in final if ep.get("is_ai_guest")]
         logging.info("ai-only filter: %d rows kept", len(final))
 
     out_path = Path(args.output)

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+data/
+logs/
+venv/
+.vscode/
+.idea/
+*.log
+playwright-report/
+test-results/

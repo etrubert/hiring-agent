@@ -1,0 +1,23 @@
+allowed_locations:
+  paris:
+    - "Paris"
+    - "Île-de-France"
+    - "IDF"
+    - "75"
+    - "92"
+    - "93"
+    - "94"
+    - "Boulogne-Billancourt"
+    - "Neuilly"
+    - "Levallois"
+    - "Issy-les-Moulineaux"
+
+  bordeaux:
+    - "Bordeaux"
+    - "Gironde"
+    - "33"
+    - "Mérignac"
+    - "Pessac"
+    - "Talence"
+
+remote_ok: true

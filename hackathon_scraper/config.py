@@ -27,6 +27,9 @@ REDDIT_CLIENT_SECRET = os.getenv("REDDIT_CLIENT_SECRET", "")
 REDDIT_USER_AGENT = os.getenv("REDDIT_USER_AGENT", "hackathon_scraper/0.1")
 TAVILY_API_KEY = os.getenv("TAVILY_API_KEY", "")
 
+SUPABASE_URL = os.getenv("SUPABASE_URL", "")
+SUPABASE_SERVICE_ROLE_KEY = os.getenv("SUPABASE_SERVICE_ROLE_KEY", "")
+
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 USER_AGENT = os.getenv(
     "USER_AGENT",
